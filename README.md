@@ -17,3 +17,6 @@
  Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/332598
   <br>
  Codeforces: https://codeforces.com/profile/JoaoVitorFaria 
+
+  
+  ![Snake animation](https://github.com/JoaoVitorFaria/JoaoVitorFaria/blob/output/github-contribution-grid-snake.svg)
